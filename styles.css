@@ -116,7 +116,7 @@ p {
 /* Testimonial Section */
 
 #testimonials {
-  color: #9EB23B;
+  background-image: linear-gradient(#9EB23B, #82DBD8);
 }
 
 .testimonial-text {
@@ -234,7 +234,7 @@ p {
 }
 
 .active, .dot:hover {
-  background-color: #717171;
+  background-image: linear-gradient(#9EB23B, #82DBD8);
 }
 
 /* Fading animation */
